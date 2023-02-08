@@ -1,0 +1,130 @@
+@media (max-width:576px){
+    .logo a{
+        display: inline-block;
+        width: 90%;
+        background-color: #fff;
+        overflow: hidden;
+    }
+    .abt-img-1{
+        width: 100% !important;
+    }
+    .abt-sec-item-01 .ps-5{
+        padding-left: 0 !important;
+    }
+    .reverse{
+        flex-direction: column-reverse !important;
+    }
+    .footer-item.ms-5{
+        margin-left: 0 !important;
+    }
+    /*  */
+    .card-img-2{
+        width: 20rem !important;
+    }
+    .card-img-2.ms-5{
+        margin-left: 0 !important;
+    }
+    .card-img-3.mt-5{
+        margin-top: 0rem !important;
+    }
+    .head-content h1,.abt-content h1{
+        font-size: 22px !important;
+    }
+    .abt-img-2{
+        left: -20px !important;
+    }
+    .abt-content h3,.head-content .blue{
+        font-size: 16px !important;
+    }
+    .course-item span{
+        margin: 20px 10px !important;
+    }
+    .course-item h2 {
+        font-size: 18px !important;
+    }
+    .btn-2{
+        text-align: center !important;
+    }
+    .work-shop{
+        padding: 80px 0px !important;
+    }
+    .wrk-shp-content{
+        padding-top: 20px;
+    }
+    .abt-img-md img{
+        width: 100%;
+    }
+    .abt-img-ps.ps-5{
+        padding-left: 0 !important;
+    }
+    .carousel-control-prev{
+        right: 15% !important;
+    }
+    .abt-content.p-5{
+        padding: 1rem !important;
+    }
+    .testi-items{
+        padding: 30px 10px;
+    }
+    .accordion-item h2{
+      font-size: 18px !important;
+    }
+    .icon-item p{
+        font-size: 10px !important;
+    }
+    .testi{
+        padding: 30px 0 !important;
+    }
+}
+@media (min-width:576px) and (max-width:768px) {
+    .reverse{
+        flex-direction: column-reverse !important;
+    }
+    /*  */
+    
+    
+}
+@media (min-width:768px) and (max-width:992px){
+    .reverse{
+        flex-direction: column-reverse !important;
+    }
+    .course-item span{
+        margin: 20px 10px !important;
+    }
+    .course-item h2 {
+        font-size: 18px !important;
+    }
+    .card-img-2{
+        width: 20rem !important;
+    }
+    .card-img-2.ms-5{
+        margin-left: 0 !important;
+    }
+    .card-img-3.mt-5{
+        margin-top: 8rem !important;
+    }
+    .head-content h1{
+        font-size: 44px !important;
+    }
+    .abt-img-2{
+        left: -20px !important;
+    }
+    .abt-content h3,.head-content .blue{
+        font-size: 20px !important;
+    }
+    .btn-2{
+        text-align: center !important;
+    }
+    .work-shop{
+        padding: 80px 0px !important;
+    }
+    .wrk-shp-content{
+        padding-top: 20px;
+    }
+    .abt-img-md img{
+        width: 100%;
+    }
+    .abt-img-ps.ps-5{
+        padding-left: 0 !important;
+    }
+}
